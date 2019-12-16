@@ -23,7 +23,7 @@ there are the endpoints for login, register and todos
 you can easily protect your future routes with middleware "$checkAuthorization"
 the same applies to cors or your own response header
 ```php
-$app->get('/api/wahtever', function (Request $request, Response $response, array $args) {
+$app->get('/api/wathever', function (Request $request, Response $response, array $args) {
   ...
 })->add($enableCors)->add($checkAuthorization)->add($returnJsonHeader);
 ```
