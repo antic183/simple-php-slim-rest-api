@@ -1,4 +1,5 @@
 # A simple REST-API with the micro framework Slim-PHP
+> this is only a simple example and should not be used directly for productive operation.
 
 ## what is where
 
